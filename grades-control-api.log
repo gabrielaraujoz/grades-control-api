@@ -1,0 +1,137 @@
+2020-06-07T01:11:35.508Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T01:14:30.595Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T01:15:17.370Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T01:15:25.943Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T01:16:09.760Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:04:39.004Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:04:43.054Z [grades-control-api] error: POST /grades - nextID is not defined
+2020-06-07T12:05:26.716Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:05:48.050Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:05:50.669Z [grades-control-api] error: POST /grades - nextId is not defined
+2020-06-07T12:06:19.089Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:06:23.000Z [grades-control-api] error: POST /grades - newDate is not defined
+2020-06-07T12:07:52.577Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:07:55.672Z [grades-control-api] error: POST /grades - newDate is not defined
+2020-06-07T12:09:57.335Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:10:00.461Z [grades-control-api] info: POST /grades - {"student":"Teste 1","subject":"NodeJS","type":"Desafio","value":15,"timestamp":1591531800429}
+2020-06-07T12:10:01.113Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:12:58.162Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:14:00.330Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:14:07.309Z [grades-control-api] info: POST /grades - {"id":50,"student":"Teste 2","subject":"NodeJS","type":"Desafio","value":15,"timestamp":"2020-06-07T12:14:07.305Z"}
+2020-06-07T12:14:07.985Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:15:27.791Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:17:27.057Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:46:07.222Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:46:57.086Z [grades-control-api] info: POST /grades - {"id":51,"student":"Teste 3","subject":"NodeJS","type":"Desafio","value":25,"timestamp":"2020-06-07T12:46:57.083Z"}
+2020-06-07T12:46:57.920Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:47:56.116Z [grades-control-api] info: PUT /grades - {"id":51,"student":"Teste 5","subject":"React","type":"Forum","value":10}
+2020-06-07T12:47:56.777Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:48:21.650Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:49:58.120Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:50:44.545Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:52:00.883Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:52:55.995Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:53:57.289Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:55:12.085Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:55:58.486Z [grades-control-api] info: DELETE /grades/:id - Grade 51 removed from memory.
+2020-06-07T12:55:59.161Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T12:57:15.377Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:03:28.723Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:04:07.608Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:04:36.582Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:05:05.131Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:05:32.462Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:06:50.001Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:06:52.927Z [grades-control-api] info: GET /grades/:id - {"id":2,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T13:07:23.297Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:10:12.951Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:35:50.165Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:37:34.827Z [grades-control-api] info: GET /grades/:id - {"id":2,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T13:38:05.146Z [grades-control-api] info: GET /grades/:id - {"id":2,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T13:38:50.108Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:39:42.179Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:41:42.734Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:44:11.776Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:44:57.065Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:46:10.563Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:48:29.146Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:52:51.635Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:54:25.388Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:54:51.652Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:55:11.974Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T13:59:29.468Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:05:28.869Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:05:51.531Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:07:00.764Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:07:40.049Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:10:03.793Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:11:13.541Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:11:44.670Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:11:47.197Z [grades-control-api] info: POST /grades/soma - A soma das notas de Loiane Groner na matéria 01 - JavaScript é de NaN
+2020-06-07T14:12:25.828Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:12:28.668Z [grades-control-api] error: POST /grades/soma - Cannot read property 'reduce' of undefined
+2020-06-07T14:14:58.669Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:17:28.371Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:17:32.321Z [grades-control-api] info: POST /grades/soma - A soma das notas de Loiane Groner na matéria 01 - JavaScript é de 41
+2020-06-07T14:23:40.733Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:25:00.811Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - JavaScript  nas atividades Desafio é de NaN
+2020-06-07T14:25:50.099Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:25:53.395Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - JavaScript  nas atividades Desafio é de 15.5
+2020-06-07T14:26:20.520Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T14:28:11.251Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T18:54:19.426Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:00:52.952Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:02:24.780Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:04:23.168Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:05:09.028Z [grades-control-api] error: POST /grades/media - a.value.localeCompare is not a function
+2020-06-07T19:05:54.017Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:06:41.363Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:06:49.285Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:06:53.215Z [grades-control-api] error: POST /grades/top - a.localeCompare is not a function
+2020-06-07T19:10:26.426Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:10:30.872Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript, nas atividades Desafio são [object Object],[object Object],[object Object],[object Object]
+2020-06-07T19:11:00.051Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:11:03.075Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript, nas atividades Desafio são [object Object],[object Object],[object Object],[object Object]
+2020-06-07T19:12:28.064Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:12:30.793Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript na atividade Desafio são [{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":9,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"}]
+2020-06-07T19:13:41.696Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript na atividade Desafio são [{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":9,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"}]
+2020-06-07T19:14:18.110Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:14:21.819Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript na atividade Desafio são [{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"}]
+2020-06-07T19:14:36.414Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:14:39.321Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 01 - JavaScript na atividade Desafio são [{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"}]
+2020-06-07T19:15:28.948Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:16:32.019Z [grades-control-api] info: DELETE /grades/:id - Grade 50 removed from memory.
+2020-06-07T19:16:33.214Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:16:36.215Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:16:48.414Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:17:22.385Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - JavaScript  nas atividades Fórum é de 10.75
+2020-06-07T19:18:00.651Z [grades-control-api] info: POST /grades/top - As três maiores notas na matéria 03 - React na atividade Trabalho Prático são [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-07T19:18:43.474Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 02 - Node  nas atividades Desafio é de 27
+2020-06-07T19:21:22.690Z [grades-control-api] info: POST /grades/soma - A soma das notas de Loiane Groner na matéria 02 - Node é de 47
+2020-06-07T19:22:14.578Z [grades-control-api] info: POST /grades/soma - A soma das notas de Roberto Achar na matéria 03 - React é de 60
+2020-06-07T19:24:23.706Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:24:49.280Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - Javascript  nas atividades Desafio é de NaN
+2020-06-07T19:25:12.150Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:25:37.312Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - Javascript  nas atividades Desafio é de NaN
+2020-06-07T19:25:48.970Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:25:52.158Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - Javascript  nas atividades Desafio é de NaN
+2020-06-07T19:27:24.774Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:27:38.656Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - Javascript  nas atividades Desafio é de NaN
+2020-06-07T19:27:50.830Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 02 - Node  nas atividades Desafio é de 27
+2020-06-07T19:28:08.372Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:28:19.431Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - Javascript  nas atividades Desafio é de NaN
+2020-06-07T19:28:32.690Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - JavaScript  nas atividades Desafio é de 15.5
+2020-06-07T19:28:37.612Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:28:40.041Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 01 - JavaScript  nas atividades Desafio é de 13
+2020-06-07T19:29:11.069Z [grades-control-api] info: DELETE /grades/:id - Grade 32 removed from memory.
+2020-06-07T19:29:11.698Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:29:23.709Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:29:52.592Z [grades-control-api] info: POST /grades/media - A media das notas na matéria 04 - MongoDB  nas atividades Trabalho Prático é de 26
+2020-06-07T19:30:15.816Z [grades-control-api] info: GET /grades/:id - {"id":43,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T19:30:36.226Z [grades-control-api] info: GET /grades/:id - {"id":43,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T19:33:35.433Z [grades-control-api] info: GET /grades/:id - {"id":42,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-07T19:33:55.508Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:33:58.563Z [grades-control-api] info: GET /grades/:id - [{"id":42,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":42,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"},{"id":42,"student":"Loiane Groner","subject":"03 - React","type":"Fórum","value":14,"timestamp":"2020-05-19T18:21:24.970Z"},{"id":42,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:24.975Z"},{"id":42,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:24.981Z"},{"id":42,"student":"Loiane Groner","subject":"02 - Node","type":"Trabalho Prático","value":24,"timestamp":"2020-05-19T18:21:24.987Z"},{"id":42,"student":"Loiane Groner","subject":"03 - React","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:24.993Z"},{"id":42,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":42,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"},{"id":42,"student":"Loiane Groner","subject":"02 - Node","type":"Desafio","value":18,"timestamp":"2020-05-19T18:21:25.012Z"},{"id":42,"student":"Loiane Groner","subject":"03 - React","type":"Desafio","value":40,"timestamp":"2020-05-19T18:21:25.019Z"},{"id":42,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.025Z"},{"id":42,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":42,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":42,"student":"Roberta Arcoverde","subject":"03 - React","type":"Fórum","value":1,"timestamp":"2020-05-19T18:21:25.047Z"},{"id":42,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.053Z"},{"id":42,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Trabalho Prático","value":12,"timestamp":"2020-05-19T18:21:25.059Z"},{"id":42,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:25.066Z"},{"id":42,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":42,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":42,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":42,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Desafio","value":9,"timestamp":"2020-05-19T18:21:25.090Z"},{"id":42,"student":"Roberta Arcoverde","subject":"03 - React","type":"Desafio","value":15,"timestamp":"2020-05-19T18:21:25.098Z"},{"id":42,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Desafio","value":14,"timestamp":"2020-05-19T18:21:25.106Z"},{"id":42,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":42,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":42,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":42,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.150Z"},{"id":42,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:25.157Z"},{"id":42,"student":"Roberto Achar","subject":"02 - Node","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:25.165Z"},{"id":42,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":42,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":42,"student":"Roberto Achar","subject":"02 - Node","type":"Desafio","value":37,"timestamp":"2020-05-19T18:21:25.191Z"},{"id":42,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":42,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Desafio","value":43,"timestamp":"2020-05-19T18:21:25.204Z"},{"id":42,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"},{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"},{"id":42,"student":"Rodrigo Branas","subject":"03 - React","type":"Fórum","value":3,"timestamp":"2020-05-19T18:21:25.225Z"},{"id":42,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:25.232Z"},{"id":42,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Trabalho Prático","value":13,"timestamp":"2020-05-19T18:21:25.240Z"},{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Trabalho Prático","value":18,"timestamp":"2020-05-19T18:21:25.247Z"},{"id":42,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"},{"id":42,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"},{"id":42,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"},{"id":42,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"},{"id":42,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}]
+2020-06-07T19:34:50.471Z [grades-control-api] info: Listening to port: 3000
+2020-06-07T19:34:53.232Z [grades-control-api] info: GET /grades/:id - [{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Trabalho Prático","value":18,"timestamp":"2020-05-19T18:21:25.247Z"}]
+2020-06-07T19:34:57.779Z [grades-control-api] info: GET /grades/:id - [{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
